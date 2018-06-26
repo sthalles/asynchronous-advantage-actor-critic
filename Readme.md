@@ -1,8 +1,8 @@
 # Asynchronous Actor Critic (A3C) Tensorflow implementation
 
 ## Dependencies
-- Python 2.x
-- TensorFlow r0.12
+- Python 3.x
+- TensorFlow 1.8
 - Numpy
 - Openai gym
 
